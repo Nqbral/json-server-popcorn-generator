@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "emoji",
+      "theme": "anime",
+      "name": "No Game No Life",
+      "statement": "🎮 👦 👧 ♟️",
+      "poster_path": "/qpKGtHATF326zuC1jh7WCrY7u5g.jpg",
+      "validated": true
+    },
+    {
+      "id": 2,
+      "type": "emoji",
+      "theme": "anime",
+      "name": "Sword Art Online",
+      "statement": "🗡️ 🌐 🎮 ❤️",
+      "poster_path": "/tTa8bB5n8Yhjr9mE44djVKnI8xR.jpg",
+      "validated": false
+    }
+  ]
+}
